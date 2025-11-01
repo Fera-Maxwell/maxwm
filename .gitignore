@@ -1,0 +1,6 @@
+# Ignore compiled binaries
+maxwm
+*.o
+*.out
+*.a
+*.so
