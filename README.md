@@ -62,5 +62,7 @@ You can modify, fork, and use it for anything *non-commercial* — just credit m
 
 ## 💬 How to access me
 If you got REAL AND WANT TO BE HEARD **LIKE REALLY HEARD**
+
 Then dm me on Discord ```fera_maxwell```
+
 Or email me ```kiziltasenes44@gmail.com```
