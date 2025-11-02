@@ -29,6 +29,7 @@ Still missing / too lazy to add (for now):
 Plans for world domination:
 - Workspaces (and if that works, scratchpad too :>)
 - **maxcom** — a customized compositor tuned just for MaxWM
+- On I3 when you record a window that is on another workspace it doesn't record it so I will add a keybind to make it force draw even if it is on another workspace (maybe make the scratchpad force draw even if it isn't being used)
 
 ---
 
