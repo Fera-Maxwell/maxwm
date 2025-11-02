@@ -45,6 +45,22 @@ Stuff that *should* work but doesn’t:
 
 ---
 
+## 🖥️ How to TRY
+It is just a simple thing
+- 1 : Build it (Literally takes No seconds because it is 1 file) ```gcc source/maxwm.c -o maxwm -lX11```
+- 2 : Run Xephyr to test it, I reccomend using it like ```Xephyr :5 -screen 800x600``` If you don't have Xephyr then download it based on your Distribution.
+- 3 : Run MaxWM in the Xephyr to test yourself ```export DISPLAY=:5 && ./maxwm```
+If you have Recomendations and wanna help then make ISSUES to tell me.
+
+---
+
 ## 🧾 License
 Licensed under the **Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)** license.
 You can modify, fork, and use it for anything *non-commercial* — just credit me, ok? :3
+
+---
+
+## 💬 How to access me
+If you got REAL AND WANT TO BE HEARD **LIKE REALLY HEARD**
+Then dm me on Discord ```fera_maxwell```
+Or email me ```kiziltasenes44@gmail.com```
